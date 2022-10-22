@@ -49,3 +49,15 @@ table {
     padding-left: 20px;
 }
 
+.face{
+    height: 30px;
+    padding-left: 20px;
+}
+
+.celular{
+    position: absolute;
+    margin-bottom: 10px;
+    font-size: 30px;
+    left: 30px;
+}
+
