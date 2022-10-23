@@ -21,7 +21,7 @@
 }
 
 h1 {
-    padding-top: 20px;
+    
     padding-left: 100px;
     font-weight: bold;
     font-size: 30px;
@@ -58,5 +58,9 @@ table {
     
     font-size: 30px;
    
+}
+
+.trabajos{
+    padding-left: 20px;
 }
 
