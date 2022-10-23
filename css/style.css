@@ -41,7 +41,7 @@ footer {
 font-size: 20px;
 color: rgb(252, 248, 243);
 text-align:center ;
-background-color: #989fa5;
+background-image: linear-gradient(to left,rgb(52, 50, 50),rgb(186, 181, 176));
 padding: 8px;
 }
 
